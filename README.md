@@ -1,2 +1,2 @@
 # influxdb-grafana
-Monitoramento com influxDB e Grafana
+Monitoramento com influxDB e Grafana.
