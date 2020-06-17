@@ -78,7 +78,7 @@ $ docker-compose up -d
 
    2. Selecionar Add data source no menu  
       Preencher os campos:  
-      Nome: InfluxDB
+      Nome: InfluxDB  
       URL: http://influxbd:8086 (nome do container)  
       Database: monitoria  
       User: devuser  
