@@ -76,8 +76,7 @@ $ docker-compose up -d
       Password: admin  
       _O Grafana irá pedir para trocar a senha depois de logado._
 
-   2. Selecionar Add data source no menu  
-      Preencher os campos:  
+   2. Selecionar Add data source no menu -> Preencher os campos:  
       Nome: InfluxDB  
       URL: http://influxbd:8086 (nome do container)  
       Database: monitoria  
